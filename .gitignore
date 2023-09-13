@@ -6,3 +6,5 @@ demo/
 /node_modules
 .devcontainer
 exampleSite/public/
+bun.lockb
+.husky
