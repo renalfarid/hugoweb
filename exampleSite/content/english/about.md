@@ -1,25 +1,27 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Nal Farid - OFFEO Tech Lead"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Nal Farid"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello and welcome! I'm Nal, a passionate Tech Lead and Software Engineer with a strong drive for innovation and a knack for solving complex technical challenges. I've spent 15 years in the technology industry, honing my skills and contributing to a variety of exciting projects.
 
-Hugo makes use of a variety of open source projects including:
+<h3> My Journey </h3>
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+My journey in the world of technology began at an early age when I fell in love with coding and the endless possibilities it offered. Since then, I've embarked on a fulfilling career path that has taken me through various roles, from a junior developer eager to learn, to a seasoned engineer leading cross-functional teams.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+<h3> Tech Leader & Mentor </h3>
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+As a Tech Lead, I thrive on guiding and inspiring others. I believe that leadership is not just about managing tasks but also about nurturing talent and fostering a collaborative spirit. I take pride in mentoring aspiring developers and helping them reach their full potential, just as my mentors did for me.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+<h3> Continuous Learner </h3>
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+In the fast-paced world of technology, I firmly believe that learning never stops. I stay updated with the latest industry trends and technologies, ensuring that I can leverage the best tools to create cutting-edge solutions for my projects.
+
+<h3> Let's Connect </h3>
+
+I'm thrilled to be part of a global community of tech enthusiasts, developers, and innovators. If you share my passion for technology or have a project in mind where we can collaborate, I'd love to connect with you. Feel free to reach out, and let's explore how we can make a difference together in the world of technology.
+
+Thank you for visiting my page, and I look forward to connecting with you!
