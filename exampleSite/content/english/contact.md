@@ -1,5 +1,5 @@
 ---
-author: Hugo Authors
+author: Nal Farid
 title: Contact
 date: 2019-03-08
 description: Contact Page
